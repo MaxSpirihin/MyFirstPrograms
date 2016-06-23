@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tree">
+</Property><Property Name="Файл решения" Value="D:\IMPORTANT\C++проги\LABS\tree\tree.sln">
+</Property><Property Name="Date" Value="28 февраля 2014 г.">
+</Property><Property Name="Time" Value="19:21">
+</Property></Properties><Event ErrorLevel="0" Project="tree" Source="tree\tree.vcproj" Description="Converting project file 'D:\IMPORTANT\C++проги\LABS\tree\tree\tree.vcproj'.">
+</Event><Event ErrorLevel="1" Project="tree" Source="tree\tree.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="tree" Source="tree\tree.vcproj" Description="Done converting to new project file 'D:\IMPORTANT\C++проги\LABS\tree\tree\tree.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="tree" Source="tree\tree.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="tree.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="tree.sln" Description="Converted">
+</Event></UpgradeLog>

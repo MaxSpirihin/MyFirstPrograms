@@ -1,0 +1,19 @@
+                        TETRIS
+  This program is a variation of Tetris game,
+written in the medium pascalABC.NET.
+
+  Control:
+    UP-turn
+    LEFT/RIGHT-shift
+    DOWN-fast falling
+    SPACE-instant falling
+
+
+  Developers:
+    Programmer-M.A.Spirikhin
+    Designer-M.A.Spirikhin 
+    Tester-M.A.Spirikhin
+
+ Start development: 22.10.2013      Finish development:04.11.2013
+
+                   Press Enter return to menu
